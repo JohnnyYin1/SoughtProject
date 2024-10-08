@@ -1,0 +1,11 @@
+# Ignore all binaries, intermediates, and saved files.
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.sln
+.vscode/
+.idea/
+.DS_Store
+*.tmp
+*.log
